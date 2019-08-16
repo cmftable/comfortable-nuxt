@@ -9,6 +9,14 @@ comfortable-javascript@^1.2.0:
     cross-fetch "^2.2.2"
     promise-polyfill "^8.1.0"
 
+comfortable-javascript@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/comfortable-javascript/-/comfortable-javascript-1.2.1.tgz#ce615a145fff7377b1c97a8add0c72f396bebc53"
+  dependencies:
+    comfortable-javascript "^1.2.0"
+    cross-fetch "^2.2.2"
+    promise-polyfill "^8.1.0"
+
 cross-fetch@^2.2.2:
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/cross-fetch/-/cross-fetch-2.2.3.tgz#e8a0b3c54598136e037f8650f8e823ccdfac198e"

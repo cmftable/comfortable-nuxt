@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/cmftable/comfortable-nuxt#readme",
   "dependencies": {
-    "comfortable-javascript": "^1.2.0"
+    "comfortable-javascript": "^1.2.1"
   }
 }
