@@ -1,6 +1,6 @@
 {
   "name": "comfortable-nuxt",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Nuxt Module of the Comfortable Javascript - SDK",
   "main": "lib/module.js",
   "scripts": {
